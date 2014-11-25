@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.9.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.9.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.9.2-test-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.9.2-tests.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons-collections.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons-lang.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/json-lib-2.1-jdk13.jar"/>
+	<classpathentry kind="lib" path="lib/json-lib-2.1-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/json-lib-2.4-jdk13.jar"/>
+	<classpathentry kind="lib" path="lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/json-29.jar"/>
+	<classpathentry kind="lib" path="lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
