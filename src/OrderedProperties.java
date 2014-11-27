@@ -4,12 +4,7 @@ import java.util.LinkedHashSet;
 import java.util.Properties;
 import java.util.Set;
 
-/**
- * OrderedProperties
- * 
- * @author Unmi
- * @date 2012-12-07
- */
+
 public class OrderedProperties extends Properties {
 
 	private static final long serialVersionUID = -4627607243846121965L;
