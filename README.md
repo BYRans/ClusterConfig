@@ -2,6 +2,7 @@ RestAPIClient
 =============
 
 1.To edit "config.properties" first, and then execute the "RestClient.java"
+
 2.The "cloudera manager" of "config.properties" is the parameters of the cluster
 
 3.Service configuration is as follows：
