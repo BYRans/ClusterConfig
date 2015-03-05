@@ -1,6 +1,12 @@
 RestAPIClient
 =============
 
+This tool call Restful API of Cloudera Manager, use to configure the cluster parameters for each service. Improving the efficiency of the new cluster configuration parameters.
+
+
+
+Attention：
+
 1.To edit "config.properties" first, and then execute the "RestClient.java"
 
 2.The "cloudera manager" of "config.properties" is the parameters of the cluster
