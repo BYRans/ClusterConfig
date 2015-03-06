@@ -1,7 +1,7 @@
 RestAPIClient
 =============
 
-   This tool call Restful API of Cloudera Manager,and could be used to configure the cluster parameters for each service. Improving the efficiency of the new cluster configuration parameters.
+   This tool call Restful API of Cloudera Manager,and could be used to configure the cluster parameters for each service. It improved the efficiency of the new cluster configuration parameters.
 
 
 
